@@ -1,0 +1,53 @@
+[
+  {
+    "name": "ラズベリー",
+    "age": "27",
+    "gender": "女",
+    "job": "傭兵",
+    "appearance": "赤いショートヘアー、筋肉質で日焼けした肌、やや高い身長。鎖鎧を着て、ブルマのような赤いボトムを履いている",
+    "personality": "落ち着いてストイック",
+    "stats": {
+      "str": 4,
+      "mag": -4,
+      "agi": 2,
+      "int": 0,
+      "men": 3,
+      "dex": -2,
+      "cha": 2
+    },
+    "inventory": [
+      "マント",
+      "鎖の鎧",
+      "ラズベリーの剣",
+      "鉄の円盾"
+    ],
+    "skills": [
+      "傭兵の基本知識"
+    ],
+    "portrait": "raspberry.webp"
+  },
+  {
+    "name": "テトラ",
+    "age": "26",
+    "gender": "女",
+    "job": "貴族・教師",
+    "appearance": "水色のロングヘアー、銀色のメガネ、フォーマルなモノトーンの服",
+    "personality": "知的で冷静",
+    "stats": {
+      "str": 2,
+      "mag": 4,
+      "agi": 2,
+      "int": 4,
+      "men": 3,
+      "dex": 0,
+      "cha": 1
+    },
+    "inventory": [
+      "鉄の棍",
+      "水筒",
+      "包帯"
+    ],
+    "skills": [],
+    "portrait": "tetra.webp"
+  }
+]
