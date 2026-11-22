@@ -49,5 +49,26 @@
     ],
     "skills": [],
     "portrait": "tetra.webp"
+  },
+  {
+    "name": "フォルヴェリア",
+    "age": "中年",
+    "gender": "男",
+    "job": "六大魔将第3席",
+    "appearance": "黒い長髪、顎髭、赤い瞳。高身長で、上品な服を着ている",
+    "personality": "掴みどころのない自由人。女と酒が好き",
+    "stats": {
+      "str": 3,
+      "mag": 1,
+      "agi": 4,
+      "int": 2,
+      "men": 4,
+      "dex": 1,
+      "cha": 3
+    },
+    "inventory": [],
+    "skills": [],
+    "portrait": "folvelia.webp",
+    "bgm": "bgm-folvelia.mp3"
   }
 ]
