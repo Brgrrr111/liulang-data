@@ -70,5 +70,31 @@
     "skills": [],
     "portrait": "folvelia.webp",
     "bgm": "bgm-folvelia.mp3"
+  },
+  {
+    "name": "バルム",
+    "age": 22,
+    "gender": "男",
+    "job": "元農民の旅人",
+    "appearance": "無造作ヘアー、上品な服を着ている",
+    "personality": "面倒くさがりで朝に弱い。温和で中立的。夜になるとやる気が出てくる",
+    "stats": {
+      "str": 1,
+      "mag": -1,
+      "agi": 3,
+      "int": 0,
+      "men": 2,
+      "dex": 2,
+      "cha": 2
+    },
+    "inventory": [
+      "鉄の双剣「ロブ」",
+      "水筒"
+    ],
+    "skills": [
+      "治癒魔法",
+      "身体強化魔法（心臓に負担がかかる）"
+    ],
+    "portrait": "balm.webp"
   }
 ]
