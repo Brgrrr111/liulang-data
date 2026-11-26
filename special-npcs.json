@@ -96,5 +96,58 @@
       "身体強化魔法（心臓に負担がかかる）"
     ],
     "portrait": "balm.webp"
+  },
+  {
+    "name": "ケルバー",
+    "age": "24",
+    "gender": "男",
+    "job": "農民・門番",
+    "appearance": "筋骨隆々、赤い短髪、赤い瞳、高身長",
+    "personality": "ムードメーカー。女性を意識しやすい。兄貴分",
+    "stats": {
+      "str": 4,
+      "mag": -3,
+      "agi": 2,
+      "int": -1,
+      "men": 1,
+      "dex": -2,
+      "cha": 1
+    },
+    "inventory": [
+      "鉄の槍",
+      "鉄の盾",
+      "鉄のハーフプレート",
+      "旅用マント",
+      "干し肉"
+    ],
+    "skills": [],
+    "portrait": "kerber.webp"
+  },
+  {
+    "name": "もなか",
+    "age": "18",
+    "gender": "女",
+    "job": "旅商人",
+    "appearance": "ピンクのポニーテール、飾り気のない服装",
+    "personality": "明るい。まず行動したがる。リーダーシップ",
+    "stats": {
+      "str": 1,
+      "mag": -3,
+      "agi": 1,
+      "int": 1,
+      "men": 1,
+      "dex": 0,
+      "cha": 0
+    },
+    "inventory": [
+      "鉄の槍",
+      "革の盾",
+      "革鎧",
+      "荷車",
+      "干し肉",
+      "水筒"
+    ],
+    "skills": [],
+    "portrait": "monaka.webp"
   }
 ]
