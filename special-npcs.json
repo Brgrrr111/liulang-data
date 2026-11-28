@@ -5,7 +5,7 @@
     "gender": "女",
     "job": "傭兵",
     "appearance": "赤いショートヘアー、筋肉質で日焼けした肌、やや高い身長。鎖鎧を着て、ブルマのような赤いボトムを履いている",
-    "personality": "落ち着いてストイック",
+    "personality": "落ち着いてストイック（斜に構えた皮肉屋ではない）",
     "stats": {
       "str": 4,
       "mag": -4,
@@ -149,5 +149,28 @@
     ],
     "skills": [],
     "portrait": "monaka.webp"
+  },
+  {
+    "name": "アン",
+    "age": "18",
+    "gender": "女",
+    "job": "ゲヘナの戦士",
+    "appearance": "赤い瞳。密着した黒い服の上に黒いビキニアーマーを着けている",
+    "personality": "魔王を崇拝。世間・常識知らず。強気、自信家",
+    "stats": {
+      "str": 2,
+      "mag": -1,
+      "agi": 3,
+      "int": -1,
+      "men": 2,
+      "dex": -1,
+      "cha": 2
+    },
+    "inventory": [
+      "光魔法の剣"
+    ],
+    "skills": [],
+    "portrait": "an.webp",
+    "bgm": "bgm-an.mp3"
   }
 ]
